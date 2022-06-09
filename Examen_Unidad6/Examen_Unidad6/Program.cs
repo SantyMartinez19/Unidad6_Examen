@@ -105,7 +105,7 @@ namespace Examen_Unidad6
             char opc;
             do
             {
-                Console.WriteLine("~~~Bienvenido a INVETARIO AMAZON~~~");
+                Console.WriteLine("~~~Bienvenido a INVENTARIO AMAZON~~~");
                 Console.WriteLine("Menu de opciones");
                 Console.WriteLine("a) Capturar los datos de un producto");
                 Console.WriteLine("b) Consultar productos registrados");
