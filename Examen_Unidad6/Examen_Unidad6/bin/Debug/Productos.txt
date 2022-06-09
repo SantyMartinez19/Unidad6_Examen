@@ -1,0 +1,15 @@
+Nombre del producto: Jabon
+Descripcion: Limpia
+Precio: $58.30
+Cantidad en stock: 9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Nombre del producto: Jugo
+Descripcion: De mango
+Precio: $52.30
+Cantidad en stock: 98
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Nombre del producto: Pan
+Descripcion: De mantequilla
+Precio: $59.30
+Cantidad en stock: 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
